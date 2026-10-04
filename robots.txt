@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://cat101.github.io/CasaC/sitemap.xml
+Sitemap: https://cat101.github.io/hack4life/sitemap.xml
